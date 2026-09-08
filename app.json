@@ -1,0 +1,10 @@
+{
+  "name": "coffee-shop",
+  "description": "Coffee, pastries and a live order ticket on 5th and Main",
+  "scripts": {},
+  "env": {
+    "SWML_BASIC_AUTH_USER": {
+      "value": "signalwire"
+    }
+  }
+}
